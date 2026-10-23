@@ -1,9 +1,9 @@
 {
-    "name": "English",
-    "lang_code": "en",
-    "description": "Just base english",
+    "name": "Français",
+    "lang_code": "fr",
+    "description": "Traduction Française du Menu de DR par Uniti",
     "link": "",
-    "monospace_fonts": false,
+    "monospace_fonts": true,
     "special_mode": false,
     "enable_translated_songs_switch": false,
     "translator_mode": false,
